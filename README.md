@@ -146,6 +146,21 @@ Persiapan membuat dokumen HTML terlebih dahulu dan dilanjut menambahkan kode sep
 ![3](https://user-images.githubusercontent.com/56498195/116215681-1bd53500-a772-11eb-92f6-f6696051eb5a.PNG)
 #
 ![4](https://user-images.githubusercontent.com/56498195/116215697-1d9ef880-a772-11eb-950c-e0cd521b6cda.PNG)
+
+#
+
+Penjelasan kode Di sini kita memerintahkan untuk menjalankan function validasi() saat form di submit. onSubmit=”validasi()” dimana function validasi() sudah kita buat untuk mengecek inputan. kita menangkap nilai value dari form input. dan memasukkannya ke dalam variabel, dan kemudian mengecek masing-masing variabel.
+Jika nama, email dan alamat di isi. atau tidak kosong. maka akan di kembalikan nilai TRUE pada form agar dapat di teruskan. jika tidak maka tampilkan pesan alert yang menampilkan “Anda harus mengisi data dengan lengkap !”.
+
+Kemudian tambahkan CSS.
+#
+![css](https://user-images.githubusercontent.com/56498195/116216369-c0f00d80-a772-11eb-9d36-057e97c223cc.PNG)
+
+
+#
+dan akan menjadi seperti ni
+
+
 #
 ![validasiform](https://user-images.githubusercontent.com/56498195/116215702-1e378f00-a772-11eb-970d-73934bff089b.JPG)
 
