@@ -84,8 +84,8 @@ Seleksi kondisi (if..else)
 ![21](https://user-images.githubusercontent.com/56498195/116212728-58536180-a76f-11eb-8624-33418dc0c2cb.PNG)
 #
 ![22](https://user-images.githubusercontent.com/56498195/116212733-59848e80-a76f-11eb-8e0c-6e00f726204f.PNG)
-
-#![23](https://user-images.githubusercontent.com/56498195/116212738-5a1d2500-a76f-11eb-85f2-7f24e7d260f6.PNG)
+#
+![23](https://user-images.githubusercontent.com/56498195/116212738-5a1d2500-a76f-11eb-85f2-7f24e7d260f6.PNG)
 
 
 
