@@ -23,6 +23,7 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 #
 
 Membuat pengenalan javascript
+#
 ![2](https://user-images.githubusercontent.com/56498195/116205797-4b7f3f80-a768-11eb-8990-8635ebff8a30.PNG)
 #
 ![1](https://user-images.githubusercontent.com/56498195/116205786-49b57c00-a768-11eb-91e3-437dfd7496f5.PNG)
@@ -31,6 +32,7 @@ Membuat pengenalan javascript
 #
 
 Pemakaian Alert sebagai property window
+#
 ![34](https://user-images.githubusercontent.com/56498195/116208508-322bc280-a76b-11eb-9963-c5a66a0e68d1.PNG)
 #
 ![35](https://user-images.githubusercontent.com/56498195/116208729-67d0ab80-a76b-11eb-91ac-31283e54884e.PNG)
@@ -38,6 +40,7 @@ Pemakaian Alert sebagai property window
 
 #
 Pemakaian method dalam obje
+#
 ![25](https://user-images.githubusercontent.com/56498195/116208972-a2d2df00-a76b-11eb-95c4-00674ae711be.PNG)
 #
 ![17](https://user-images.githubusercontent.com/56498195/116209140-cc8c0600-a76b-11eb-9aae-5a67ef30315b.PNG)
