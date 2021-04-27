@@ -46,5 +46,14 @@ Pemakaian method dalam obje
 ![17](https://user-images.githubusercontent.com/56498195/116209140-cc8c0600-a76b-11eb-9aae-5a67ef30315b.PNG)
 
 
+#
+Pemakaian Prompt
+#
+![18](https://user-images.githubusercontent.com/56498195/116210837-6ef8b900-a76d-11eb-97fb-d9edbc40ea41.PNG)
+#
+![19](https://user-images.githubusercontent.com/56498195/116210849-70c27c80-a76d-11eb-8248-e6e8f50629d4.PNG)
+#
+![20](https://user-images.githubusercontent.com/56498195/116210892-7b7d1180-a76d-11eb-91a6-6833a41d45f2.PNG)
+
 
 
