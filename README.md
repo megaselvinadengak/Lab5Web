@@ -10,7 +10,12 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 
 *JavaScript digunakan untuk memprogram perilaku halaman web, diantaranya adalah:
 • Dapat Mengubah Konten HTML
+
+
 • Dapat Mengubah Nilai Atribut HTML
+
 • Dapat Mengubah Gaya HTML (CSS)
+
 • Dapat Menyembunyikan Elemen HTML
+
 • Dapat Menampilkan Elemen HTML
