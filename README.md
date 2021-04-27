@@ -49,11 +49,33 @@ Pemakaian method dalam obje
 #
 Pemakaian Prompt
 #
-![18](https://user-images.githubusercontent.com/56498195/116210837-6ef8b900-a76d-11eb-97fb-d9edbc40ea41.PNG)
+![18](https://user-images.githubusercontent.com/56498195/116211361-eb8b9780-a76d-11eb-95b4-15c36e957e17.PNG)
 #
-![19](https://user-images.githubusercontent.com/56498195/116210849-70c27c80-a76d-11eb-8248-e6e8f50629d4.PNG)
+![19](https://user-images.githubusercontent.com/56498195/116211365-ecbcc480-a76d-11eb-94de-83e8d365ff24.PNG)
+
 #
 ![20](https://user-images.githubusercontent.com/56498195/116210892-7b7d1180-a76d-11eb-91a6-6833a41d45f2.PNG)
+
+
+#
+Pembuatan fungsi dan cara pemanggilannya
+#
+![27](https://user-images.githubusercontent.com/56498195/116211786-62289500-a76e-11eb-99e3-4f0244af78e3.PNG)
+#
+![36](https://user-images.githubusercontent.com/56498195/116212169-bf244b00-a76e-11eb-9f1c-5d0751156436.PNG)
+
+
+
+#
+Operasi dasar aritmatika
+#
+![28](https://user-images.githubusercontent.com/56498195/116212318-e9760880-a76e-11eb-8046-5209d63db940.PNG)
+#
+![13](https://user-images.githubusercontent.com/56498195/116212381-f85cbb00-a76e-11eb-9300-4d06204abb59.PNG)
+#
+![14](https://user-images.githubusercontent.com/56498195/116212387-f98de800-a76e-11eb-84f5-e29295e0e9a0.PNG)
+
+
 
 
 
