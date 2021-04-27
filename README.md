@@ -3,7 +3,7 @@
                                                     Kelas : TI.19.A.1
 # Lab5web
 
-                                                           Praktikum 5: Javascript
+                                                   Praktikum 5: Javascript
                                                                
                                                                
      
